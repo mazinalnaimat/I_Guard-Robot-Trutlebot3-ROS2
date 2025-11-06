@@ -1,6 +1,5 @@
 apply the real robot:
-<video width="560" height="315" src="https://www.youtube.com/embed/zynjMEQVKEI?si=JJoYC1mLTKQLnbaq" ></video>
-
+[![Watch the video](https://www.youtube.com/watch?v=zynjMEQVKEI&t/0.jpg)](https://www.youtube.com/watch?v=zynjMEQVKEI&t)
 explain how to build the robot with ROS2:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1qU5s6zpBuw?si=EYehm8D31CRoQYWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://www.youtube.com/watch?v=1qU5s6zpBuw&t/0.jpg)](https://www.youtube.com/watch?v=1qU5s6zpBuw&t)
