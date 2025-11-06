@@ -1,0 +1,10 @@
+<library path="i_guard_firmware">
+    <class name="i_guard_firmware/i_guardInterface"
+      type="i_guard_firmware::i_guardInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        i_guard Hardware Interface
+      </description>
+    </class>
+  </library>
